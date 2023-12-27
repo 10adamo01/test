@@ -1177,11 +1177,6 @@ a {
 .cid-sFzFvgBfc0 .item-subtitle {
   text-align: left;
 }
-.cid-sFAZRnJnnI {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-color: #bbbbbb;
-}
 .cid-sFzErVWEaH {
   padding-top: 6rem;
   padding-bottom: 8rem;
@@ -1459,4 +1454,7 @@ a {
 }
 .cid-sFCygHrmNf .row .row-copirayt p {
   width: 100%;
+}
+.cid-sFCygHrmNf foot-menu-item {
+  text-align: right;
 }
